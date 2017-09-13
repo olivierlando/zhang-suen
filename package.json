@@ -1,0 +1,34 @@
+{
+  "name": "zhang-suen",
+  "version": "0.0.2",
+  "description": "Implementation of the Zhang-Suen thinning algorithm",
+  "main": "src/index.js",
+  "gypfile": true,
+  "scripts": {
+    "configure": "node_modules/.bin/node-gyp configure",
+    "build": "node_modules/.bin/node-gyp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierlando/zhang-suen.git"
+  },
+  "keywords": [
+    "zhang-suen",
+    "zhang",
+    "suen",
+    "thinning",
+    "skeletonization"
+  ],
+  "author": "Olivier Lando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierlando/zhang-suen/issues"
+  },
+  "homepage": "https://github.com/olivierlando/zhang-suen#readme",
+  "dependencies": {
+    "nan": "*"
+  },
+  "devDependencies": {
+    "node-gyp": "*"
+  }
+}
