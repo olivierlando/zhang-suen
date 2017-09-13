@@ -1,6 +1,6 @@
 {
   "name": "zhang-suen",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Implementation of the Zhang-Suen thinning algorithm",
   "main": "src/index.js",
   "gypfile": true,
